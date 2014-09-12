@@ -1,10 +1,10 @@
 Address, Title, Artist, Year,Latitude,Longitude
-"404 E Cannon St.","Elements","Marissa Saints",2014,39.995817, -105.086295
-"472 S Longmont Ave","Bee Garden","Marissa Saints with art students and neighbors",2014,39.994760, -105.092955
-"502 S Longmont Ave","Mickey In Glitter","Sarah R. Spencer",2014,39.994220, -105.092544
+"404 E Cannon St.","Elements","Marissa Saints",2014,39.995817,-105.086295
+"472 S Longmont Ave","Bee Garden","Marissa Saints with art students and neighbors",2014,39.994760,-105.092955
+"502 S Longmont Ave","Mickey In Glitter","Sarah R. Spencer",2014,39.994220,-105.092544
 "106 W Cannon St.","Farm Landscape","unknown",2014,,
 "Soul Tree Yoga, Simpson St.","Empowered By Love", "Tif Choate, Marissa Saints, Cory Ducombs, Meg & Jake Stockdale, Alex Bullen, Sarah R. Spencer",2014,39.9980839,-105.0858639
-"131 E. Chester St.", "Paint Comes to Life","Sarah R. Spencer",2014,39.995544, -105.090092
+"131 E. Chester St.", "Paint Comes to Life","Sarah R. Spencer",2014,39.995544,-105.090092
 "211 W. Chester St.","This Must Be the Place","Jenn Weede",2014,,
 "407 W. Cleveland St.","The Patient Cat","Sarah R. Spencer",2014,,
 "506 E. Cleveland St.","Seasons","MaryPat Munding",2014,,
@@ -41,7 +41,7 @@ Address, Title, Artist, Year,Latitude,Longitude
 "101 W. Cannon St.","Blackbirds","Sarah R. Spencer",2011,,
 "201 E Cleveland St.","Cap butterfly",,2011,,
 "707 E Cleveland St.","One sunflower","Besty's daughter (from LOTA)",2011,,
-"205 W Emma St.","Art Deco Garden Abstract","Marissa Saints and Friends",2011,,
-"111 W Chester St.","Tulip","Mary Pat Munding",2011,,
-"109 W Cannon St.","Farm with Chicken",,2011,,
+"111 W Chester St.","Tulip","Mary Pat Munding",2011,39.995749,-105.091877
+"109 W Cannon St.","Farm with Chicken",,2011,39.996715,-105.091330
 "201 E. Chester St.","Fairies","Shirley Grace",2011,,
+"205 W Emma St.","Art Deco Garden Abstract","Marissa Saints and Friends",2011,39.994740, -105.092330
