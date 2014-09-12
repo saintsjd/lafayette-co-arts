@@ -1,47 +1,47 @@
-Media,Address, Title, Artist, Year,Latitude,Longitude
-"Mural","404 E Cannon St.","Elements","Marissa Saints",2014,39.995817,-105.086295
-"Mural","472 S Longmont Ave","Bee Garden","Marissa Saints with art students and neighbors",2014,39.994760,-105.092955
-"Mural","502 S Longmont Ave","Mickey In Glitter","Sarah R. Spencer",2014,39.994220,-105.092544
-"Mural","106 W Cannon St.","Farm Landscape","unknown",2014,39.995800,-105.091114
-"Mural","Soul Tree Yoga, Simpson St.","Empowered By Love", "Tif Choate, Marissa Saints, Cory Ducombs, Meg & Jake Stockdale, Alex Bullen, Sarah R. Spencer",2014,39.9980839,-105.0858639
-"Mural","131 E. Chester St.", "Paint Comes to Life","Sarah R. Spencer",2014,39.995544,-105.090092
-"Mural","211 W. Chester St.","This Must Be the Place","Jenn Weede",2014,39.995745,-105.092938
-"Mural","407 W. Cleveland St.","The Patient Cat","Sarah R. Spencer",2014,39.997692,-105.095299
-"Mural","506 E. Cleveland St.","Seasons","MaryPat Munding",2014,39.996778,-105.084687
-"Mural","106 E Chester St.","Graphic Fence with Orchid","Sarah R. Spencer",2013,39.994867,-105.089651
-"Mural","103 S Public Rd.","Miller's View","Tif Choate",2013,39.997944,-105.091086
-"Mural","109 E. Cleveland Rd.","The Goats","Ky",2013,39.997714,-105.089537
-"Mural","108 E. Simpson St.","The Miner","Tif Choate",2013,39.997789,-105.089531
-"Mural","401 S. Public Rd.","wimsy pARTiculars",,2013,39.994804,-105.090633
-"Mural","108 E. Chester Rd.","An Octopus at Monet's Water Lilies","Sarah R. Spencer",2013,39.994803,-105.089494
-"Mural","203 W. Cleveland St.","Iris's with a Secret","Sarah R. Spencer",2013,39.997716,-105.092241
-"Mural","613 E. Emma St.","Big Aspens",,2013,39.994730,-105.082944
-"Mural","103 N. Public Rd.","Hip Hop the Frog at Leenie's","Sarah R. Spencer",2013,39.998518,-105.090664
-"Mural","308 E. Emma St.","Deco Trailer","Sarah R. Spencer",2013,39.994306,-105.087835
-"Mural","210 W. Chester St.","John's Tree", "Tif Choate, Sarah R. Spencer, Ky Wozab",2013,39.994812,-105.092855
-"Mural","206 S. Public Rd.","Navigating Lafayette for Superior Copy","Sarah R. Spencer",2012,39.996724,-105.090213
-"Mural","510 E Cleveland","Sunflowers & Sun","Sarah R. Spencer + homeowner",2012,39.996794,-105.084364
-"Mural","403 W Cleveland St.","Rainbow Family","Tif Choate",2012,39.997690,-105.094769
-"Mural","502 1/2 E Simpson St.","An Urban Garden","Tif Choate",2012,39.997777,-105.085097
-"Mural","307 W Cleveland St.","Lotus","Sarah R. Spencer",2012,39.997690,-105.093889
-"Mural","107 W Cleveland St.","Wizard of Oz","Sarah R. Spencer",2012,39.997709,-105.091194
-"Mural","107 S Public Rd.","Butterflies","Sarah R. Spencer + community",2012,39.997665,-105.091072
-"Mural","303 W Simpson St.","Large Sunflowers","Sarah R. Spencer",2012,39.998681,-105.093541
-"Mural","311 W Cannon St.","Sofia","Jenn Weede",2012,39.996703,-105.094306
-"Mural","404 E Cleveland St.","Mountain Vistas","The resident did this one with some help from Marissa and Sarah",2012,39.996796,-105.086229
-"Mural","301 W. Simpson St.","Eagle","Ky",2012,39.998696,-105.093295
-"Mural","307 E. Cleveland St.","Georgia Okeefe's Flowers","Sarah R. Spencer",2012,39.997714,-105.087331
-"Mural","210 S Public Rd.","Cannon Mine Landscape","Ky",2012,39.996334,-105.090206
-"Mural","300 W Chester St.","Four trees","Jessie Johnson and Meg Bennett",2012,39.994802,-105.093252
-"Mural","501 E. Cleveland St.","Sunrise in the Mountains","Tif Choate",2012,39.997709,-105.085250
-"Mural","211 W Simpson St.","Butterfly bush",,2012,39.998622,-105.092980
-"Mural","301 E Geneseo St.","Peace","Mary Pat Munding and Friends",2011,39.999681,-105.087880
-"Mural","201 E Cannon St.","Honecomb","Marissa Saints and Anne Klein",2011,39.996732,-105.089077
-"Mural","201 W. Chester St.","Rusty Sunflowers","Mary Pat Munding",2011,39.995746,-105.091870
-"Mural","101 W. Cannon St.","Blackbirds","Sarah R. Spencer",2011,39.996718,-105.090561
-"Mural","201 E Cleveland St.","Cap butterfly",,2011,39.997713,-105.089176
-"Mural","707 E Cleveland St.","One sunflower","Besty's daughter (from LOTA)",2011,39.997727,-105.081940
-"Mural","111 W Chester St.","Tulip","Mary Pat Munding",2011,39.995749,-105.091877
-"Mural","109 W Cannon St.","Farm with Chicken",,2011,39.996715,-105.091330
-"Mural","201 E. Chester St.","Fairies","Shirley Grace",2011,39.995747,-105.089162
-"Mural","205 W Emma St.","Art Deco Garden Abstract","Marissa Saints and Friends",2011,39.994740, -105.092330
+Media,Address, Title, Artist, Year,Latitude,Longitude,URL
+"Mural","404 E Cannon St.","Elements","Marissa Saints",2014,39.995817,-105.086295,
+"Mural","472 S Longmont Ave","Bee Garden","Marissa Saints with art students and neighbors",2014,39.994760,-105.092955,
+"Mural","502 S Longmont Ave","Mickey In Glitter","Sarah R. Spencer",2014,39.994220,-105.092544,
+"Mural","106 W Cannon St.","Farm Landscape","unknown",2014,39.995800,-105.091114,
+"Mural","Soul Tree Yoga, Simpson St.","Empowered By Love", "Tif Choate, Marissa Saints, Cory Ducombs, Meg & Jake Stockdale, Alex Bullen, Sarah R. Spencer",2014,39.9980839,-105.0858639,
+"Mural","131 E. Chester St.", "Paint Comes to Life","Sarah R. Spencer",2014,39.995544,-105.090092,
+"Mural","211 W. Chester St.","This Must Be the Place","Jenn Weede",2014,39.995745,-105.092938,
+"Mural","407 W. Cleveland St.","The Patient Cat","Sarah R. Spencer",2014,39.997692,-105.095299,
+"Mural","506 E. Cleveland St.","Seasons","MaryPat Munding",2014,39.996778,-105.084687,
+"Mural","106 E Chester St.","Graphic Fence with Orchid","Sarah R. Spencer",2013,39.994867,-105.089651,
+"Mural","103 S Public Rd.","Miller's View","Tif Choate",2013,39.997944,-105.091086,
+"Mural","109 E. Cleveland Rd.","The Goats","Ky",2013,39.997714,-105.089537,
+"Mural","108 E. Simpson St.","The Miner","Tif Choate",2013,39.997789,-105.089531,
+"Mural","401 S. Public Rd.","wimsy pARTiculars",,2013,39.994804,-105.090633,
+"Mural","108 E. Chester Rd.","An Octopus at Monet's Water Lilies","Sarah R. Spencer",2013,39.994803,-105.089494,
+"Mural","203 W. Cleveland St.","Iris's with a Secret","Sarah R. Spencer",2013,39.997716,-105.092241,
+"Mural","613 E. Emma St.","Big Aspens",,2013,39.994730,-105.082944,
+"Mural","103 N. Public Rd.","Hip Hop the Frog at Leenie's","Sarah R. Spencer",2013,39.998518,-105.090664,
+"Mural","308 E. Emma St.","Deco Trailer","Sarah R. Spencer",2013,39.994306,-105.087835,
+"Mural","210 W. Chester St.","John's Tree", "Tif Choate, Sarah R. Spencer, Ky Wozab",2013,39.994812,-105.092855,
+"Mural","206 S. Public Rd.","Navigating Lafayette for Superior Copy","Sarah R. Spencer",2012,39.996724,-105.090213,
+"Mural","510 E Cleveland","Sunflowers & Sun","Sarah R. Spencer + homeowner",2012,39.996794,-105.084364,
+"Mural","403 W Cleveland St.","Rainbow Family","Tif Choate",2012,39.997690,-105.094769,
+"Mural","502 1/2 E Simpson St.","An Urban Garden","Tif Choate",2012,39.997777,-105.085097,
+"Mural","307 W Cleveland St.","Lotus","Sarah R. Spencer",2012,39.997690,-105.093889,
+"Mural","107 W Cleveland St.","Wizard of Oz","Sarah R. Spencer",2012,39.997709,-105.091194,
+"Mural","107 S Public Rd.","Butterflies","Sarah R. Spencer + community",2012,39.997665,-105.091072,
+"Mural","303 W Simpson St.","Large Sunflowers","Sarah R. Spencer",2012,39.998681,-105.093541,
+"Mural","311 W Cannon St.","Sofia","Jenn Weede",2012,39.996703,-105.094306,
+"Mural","404 E Cleveland St.","Mountain Vistas","The resident did this one with some help from Marissa and Sarah",2012,39.996796,-105.086229,
+"Mural","301 W. Simpson St.","Eagle","Ky",2012,39.998696,-105.093295,
+"Mural","307 E. Cleveland St.","Georgia Okeefe's Flowers","Sarah R. Spencer",2012,39.997714,-105.087331,
+"Mural","210 S Public Rd.","Cannon Mine Landscape","Ky",2012,39.996334,-105.090206,
+"Mural","300 W Chester St.","Four trees","Jessie Johnson and Meg Bennett",2012,39.994802,-105.093252,
+"Mural","501 E. Cleveland St.","Sunrise in the Mountains","Tif Choate",2012,39.997709,-105.085250,
+"Mural","211 W Simpson St.","Butterfly bush",,2012,39.998622,-105.092980,
+"Mural","301 E Geneseo St.","Peace","Mary Pat Munding and Friends",2011,39.999681,-105.087880,
+"Mural","201 E Cannon St.","Honecomb","Marissa Saints and Anne Klein",2011,39.996732,-105.089077,
+"Mural","201 W. Chester St.","Rusty Sunflowers","Mary Pat Munding",2011,39.995746,-105.091870,
+"Mural","101 W. Cannon St.","Blackbirds","Sarah R. Spencer",2011,39.996718,-105.090561,
+"Mural","201 E Cleveland St.","Cap butterfly",,2011,39.997713,-105.089176,
+"Mural","707 E Cleveland St.","One sunflower","Besty's daughter (from LOTA)",2011,39.997727,-105.081940,
+"Mural","111 W Chester St.","Tulip","Mary Pat Munding",2011,39.995749,-105.091877,
+"Mural","109 W Cannon St.","Farm with Chicken",,2011,39.996715,-105.091330,
+"Mural","201 E. Chester St.","Fairies","Shirley Grace",2011,39.995747,-105.089162,
+"Mural","205 W Emma St.","Art Deco Garden Abstract","Marissa Saints and Friends",2011,39.994740, -105.092330,
