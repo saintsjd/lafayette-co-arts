@@ -1,4 +1,4 @@
-Collection,Media,Address,Title,Artist,Year,Latitude,Longitude,Image
+collection,media,address,title,artist,year,latitude,longitude,image
 Alley Art Amazin',Mural,404 E Cannon St.,Elements,Marissa Saints,2014,39.995817,-105.086295,elements.jpg
 Alley Art Amazin',Mural,472 S Longmont Ave,Bee Garden,Marissa Saints with art students and neighbors,2014,39.99476,-105.092955,bee-garden.jpg
 Alley Art Amazin',Mural,502 S Longmont Ave,Mickey In Glitter,Sarah R. Spencer,2014,39.99422,-105.092544,
@@ -45,32 +45,48 @@ Alley Art Amazin',Mural,111 W Chester St.,Tulip,Mary Pat Munding,2011,39.995749,
 Alley Art Amazin',Mural,109 W Cannon St.,Farm with Chicken,,2011,39.996715,-105.09133,farm-with-chicken.jpg
 Alley Art Amazin',Mural,201 E. Chester St.,Fairies,Shirley Grace,2011,39.995747,-105.089162,fairies.jpg
 Alley Art Amazin',Mural,205 W Emma St.,Art Deco Garden Abstract,Marissa Saints and Friends,2010,39.99474,-105.09233,deco-floral.jpg
-Art on the Street rotating collection,Sculpture,"211 N Public Rd., Mojos Plaza",Green Ball,"Tom Newport",2014,40.000093,-105.090662,NID_881.jpg
-Art on the Street rotating collection,Sculpture,Santiagos,Curious George,"Judd Nelson",2014,39.998349,-105.090363,NID_882.jpg
-Art on the Street rotating collection,Sculpture,"107 S Public Rd., Metro Brokers",Winged Hunter,"Joellen Domenico",2014,39.997855,-105.090594,NID_883.jpg
-Art on the Street rotating collection,Sculpture,Cleveland & S. Public Roads,Tradition,"Robert Henderson",2014,39.997141,-105.090512,NID_884.jpg
+Art on the Street rotating collection,Sculpture,"211 N Public Rd., Mojos Plaza",Green Ball,"Tom Newport
+",2014,40.000093,-105.090662,NID_881.jpg
+Art on the Street rotating collection,Sculpture,Santiagos,Curious George,"Judd Nelson
+",2014,39.998349,-105.090363,NID_882.jpg
+Art on the Street rotating collection,Sculpture,"107 S Public Rd., Metro Brokers",Winged Hunter,"Joellen Domenico
+",2014,39.997855,-105.090594,NID_883.jpg
+Art on the Street rotating collection,Sculpture,Cleveland & S. Public Roads,Tradition,"Robert Henderson
+",2014,39.997141,-105.090512,NID_884.jpg
 Art on the Street rotating collection,Sculpture,"101 W. Cannon, back lawn",More to Eatus,Richard Mertineit,2014,39.996593,-105.090573,NID_885.jpg
-Art on the Street rotating collection,Sculpture,Kimbark & S. Public Road,Broken Promises,"Felix Valez",2014,39.992397,-105.0906,NID_886.jpg
-Art on the Street rotating collection,Sculpture,Festival Plaza West; 311 S. Public Rd.,New Dancing Moon IV,"Reven Swanson",2014,39.995336,-105.090938,NID_889.jpg
-Art on the Street rotating collection,Sculpture,"210 S. Public Road, Cannon Mine",Girly Curl,"Harold Linke",2014,39.99636,-105.090339,NID_890.jpg
-Art on the Street rotating collection,Sculpture,Festival Plaza; 311 S. Public Rd.,Nap Time,"Ed Gauss",2014,39.995478,-105.09058,NID_891.jpg
-Art on the Street rotating collection,Sculpture,Festival Plaza Lawn; 311 S. Public Road,the human factor,"Greg Wasil",2014,39.995507,-105.090637,NID_892.jpg
-Art on the Street rotating collection,Sculpture,"Chester and Public Rd, SE Corner",Welcome Wagon,"Greg Todd",2014,39.995174,-105.090385,NID_893.jpg
+Art on the Street rotating collection,Sculpture,Kimbark & S. Public Road,Broken Promises,"Felix Valez
+",2014,39.992397,-105.0906,NID_886.jpg
+Art on the Street rotating collection,Sculpture,Festival Plaza West; 311 S. Public Rd.,New Dancing Moon IV,"Reven Swanson
+",2014,39.995336,-105.090938,NID_889.jpg
+Art on the Street rotating collection,Sculpture,"210 S. Public Road, Cannon Mine",Girly Curl,"Harold Linke
+",2014,39.99636,-105.090339,NID_890.jpg
+Art on the Street rotating collection,Sculpture,Festival Plaza; 311 S. Public Rd.,Nap Time,"Ed Gauss
+",2014,39.995478,-105.09058,NID_891.jpg
+Art on the Street rotating collection,Sculpture,Festival Plaza Lawn; 311 S. Public Road,the human factor,"Greg Wasil
+",2014,39.995507,-105.090637,NID_892.jpg
+Art on the Street rotating collection,Sculpture,"Chester and Public Rd, SE Corner",Welcome Wagon,"Greg Todd
+",2014,39.995174,-105.090385,NID_893.jpg
 Art on the Street rotating collection,Sculpture,NW Emma and S. Public Rd,The Reclining Guitar,Anne Shutan,2014,39.99436,-105.090608,NID_894.jpg
 Art on the Street rotating collection,Sculpture,SW Emma and S. Public Road - by El Mercado,Flower of Life,Kimmerjae Johnson,2014,39.994146,-105.090628,NID_895.jpg
-Art on the Street rotating collection,Sculpture,603 S. Public Road,Opening of my Soul,"David Norrie",2014,39.993432,-105.090522,NID_896.jpg
-Art on the Street rotating collection,Sculpture,600 S. Public Rd. - Flag Pole E,Mr. Toolman,"Justin Deister",2014,39.993354,-105.090375,NID_897.jpg
-Art on the Street rotating collection,Sculpture,611 S. Public Rd; Elizabeths Embellishments,Love Birds,"Judd Nelson",2014,39.992794,-105.090586,NID_898.jpg
-Art on the Street rotating collection,Sculpture,Festival Plaza West (311 W. Chester),Soaring Bird II,"John King",2014,39.99537,-105.090374,NID_899.jpg
+Art on the Street rotating collection,Sculpture,603 S. Public Road,Opening of my Soul,"David Norrie
+",2014,39.993432,-105.090522,NID_896.jpg
+Art on the Street rotating collection,Sculpture,600 S. Public Rd. - Flag Pole E,Mr. Toolman,"Justin Deister
+",2014,39.993354,-105.090375,NID_897.jpg
+Art on the Street rotating collection,Sculpture,611 S. Public Rd; Elizabeths Embellishments,Love Birds,"Judd Nelson
+",2014,39.992794,-105.090586,NID_898.jpg
+Art on the Street rotating collection,Sculpture,Festival Plaza West (311 W. Chester),Soaring Bird II,"John King
+",2014,39.99537,-105.090374,NID_899.jpg
 Art on the Street rotating collection,Sculpture,"Festival Plaza Lawn, (311 S. Public Rd.)",Waiting for the Bus,J. Lucas Loeffler,2014,39.995527,-105.090669,NID_900.jpg
-Art on the Street rotating collection,Sculpture,Festival Plaza (311 S. Public Rd),Tree Wrap V,"Gerry Stecca",2014,39.995376,-105.090668,NID_901.jpg
+Art on the Street rotating collection,Sculpture,Festival Plaza (311 S. Public Rd),Tree Wrap V,"Gerry Stecca
+",2014,39.995376,-105.090668,NID_901.jpg
 City of Lafayette Permanent Collection,Mural,775 West Baseline Road,Mary Miller Mural,Barbara Jo Revelle & John Caron,,40.000589,-105.099549,MaryMillerMural.jpg
 City of Lafayette Permanent Collection,Sculpture,775 West Baseline Road,Within Your Reach,Susan Booker & Kevin Gibbs,,40.000444,-105.100287,WithinYourReach.jpg
 City of Lafayette Permanent Collection,Sculpture,745 Hwy 287,Toros Curiosos,Christopher Weed,,40.007389,-105.103695,TorosCuriosos.jpg
 City of Lafayette Permanent Collection,Sculpture,South Public Road and Public Drive,Towns Woman,Tim Upham,,39.978929,-105.090795,Townswoman.jpg
 City of Lafayette Permanent Collection,Sculpture,309 South Public Road,Sky Dancer,Lucas Loeffler,,39.995379,-105.090562,SkyDancer.jpg
 City of Lafayette Permanent Collection,Sculpture,111 West Baseline Road,Banned,Jim Small,,40.001264,-105.090482,Banned.jpg
-City of Lafayette Permanent Collection,Sculpture,1290 South Public Road,Window of Peace,"Joellen Domenico",,39.987257,-105.090029,WindowofPeace.jpg
+City of Lafayette Permanent Collection,Sculpture,1290 South Public Road,Window of Peace,"Joellen Domenico
+",,39.987257,-105.090029,WindowofPeace.jpg
 City of Lafayette Permanent Collection,Sculpture,775 Baseline Road,Mother Goose,Diane D. Mason,,40.00079,-105.099798,MotherGoose.jpg
 City of Lafayette Permanent Collection,Sculpture,401 Public Road,Imagination,Lucas Loeffler,,39.995169,-105.090594,Imagination.jpg
 City of Lafayette Permanent Collection,Sculpture,Waneka Lake Boathouse,April Charm,Deedee Morrison,,39.993072,-105.113034,AprilCharm.jpg
