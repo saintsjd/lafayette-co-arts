@@ -1,47 +1,78 @@
-Media,Address,Title,Artist,Year,Latitude,Longitude,Image
-"Mural","404 E Cannon St.","Elements","Marissa Saints",2014,39.995817,-105.086295,"elements.jpg"
-"Mural","472 S Longmont Ave","Bee Garden","Marissa Saints with art students and neighbors",2014,39.994760,-105.092955,"bee-garden.jpg"
-"Mural","502 S Longmont Ave","Mickey In Glitter","Sarah R. Spencer",2014,39.994220,-105.092544,
-"Mural","106 W Cannon St.","Farm Landscape","unknown",2014,39.995800,-105.091114,
-"Mural","Soul Tree Yoga, Simpson St.","Empowered By Love", "Tif Choate, Marissa Saints, Cory Ducombs, Meg & Jake Stockdale, Alex Bullen, Sarah R. Spencer",2014,39.9980839,-105.0858639,"empowered.jpg"
-"Mural","131 E. Chester St.", "Paint Comes to Life","Sarah R. Spencer",2014,39.995544,-105.090092,
-"Mural","211 W. Chester St.","This Must Be the Place","Jenn Weede",2014,39.995745,-105.092938,
-"Mural","407 W. Cleveland St.","The Patient Cat","Sarah R. Spencer",2014,39.997692,-105.095299,
-"Mural","506 E. Cleveland St.","Seasons","MaryPat Munding",2014,39.996778,-105.084687,
-"Mural","106 E Chester St.","Graphic Fence with Orchid","Sarah R. Spencer",2013,39.994867,-105.089651,"graphic-fence-with-orchid.jpg"
-"Mural","103 S Public Rd.","Miller's View","Tif Choate",2013,39.997944,-105.091086,"millers-view.jpg"
-"Mural","109 E. Cleveland Rd.","The Goats","Ky",2013,39.997714,-105.089537,"the-goats.jpg"
-"Mural","108 E. Simpson St.","The Miner","Tif Choate",2013,39.997789,-105.089531,"the-miner.jpg"
-"Mural","401 S. Public Rd.","wimsy pARTiculars",,2013,39.994804,-105.090633,"wimsy.jpg"
-"Mural","108 E. Chester Rd.","An Octopus at Monet's Water Lilies","Sarah R. Spencer",2013,39.994803,-105.089494,"octo-lilies.jpg"
-"Mural","203 W. Cleveland St.","Iris's with a Secret","Sarah R. Spencer",2013,39.997716,-105.092241,"iris-with-secret.jpg"
-"Mural","613 E. Emma St.","Big Aspens",,2013,39.994730,-105.082944,"moon-in-the-aspens.jpg"
-"Mural","103 N. Public Rd.","Hip Hop the Frog at Leenie's","Sarah R. Spencer",2013,39.998518,-105.090664,"riverboat.jpg"
-"Mural","308 E. Emma St.","Deco Trailer","Sarah R. Spencer",2013,39.994306,-105.087835,"deco-trailer.jpg"
-"Mural","210 W. Chester St.","John's Tree", "Tif Choate, Sarah R. Spencer, Ky Wozab",2013,39.994812,-105.092855,"johns-tree.jpg"
-"Mural","206 S. Public Rd.","Navigating Lafayette for Superior Copy","Sarah R. Spencer",2012,39.996724,-105.090213,"superior-copy.jpg"
-"Mural","510 E Cleveland","Sunflowers & Sun","Sarah R. Spencer + homeowner",2012,39.996794,-105.084364,"sunflowers-and-sun.jpg"
-"Mural","403 W Cleveland St.","Rainbow Family","Tif Choate",2012,39.997690,-105.094769,
-"Mural","502 1/2 E Simpson St.","An Urban Garden","Tif Choate",2012,39.997777,-105.085097,"urban-garden.jpg"
-"Mural","307 W Cleveland St.","Lotus","Sarah R. Spencer",2012,39.997690,-105.093889,"lotus.jpg"
-"Mural","107 W Cleveland St.","Wizard of Oz","Sarah R. Spencer",2012,39.997709,-105.091194,"oz.jpg"
-"Mural","107 S Public Rd.","Butterflies","Sarah R. Spencer + community",2012,39.997665,-105.091072,"butterflies.jpg"
-"Mural","303 W Simpson St.","Large Sunflowers","Sarah R. Spencer",2012,39.998681,-105.093541,"large-sunflowers.jpg"
-"Mural","311 W Cannon St.","Sofia","Jenn Weede",2012,39.996703,-105.094306,"sofia.jpg"
-"Mural","101 E Cleveland St.","Mountain Vistas","The resident did this one with some help from Marissa and Sarah",2012,39.996796,-105.086229,"mountain-vistas.jpg"
-"Mural","301 W. Simpson St.","Eagle","Ky",2012,39.998696,-105.093295,"eagle.jpg"
-"Mural","307 E. Cleveland St.","Georgia Okeefe's Flowers","Sarah R. Spencer",2012,39.997714,-105.087331,"georgia-okeefs-flowers.jpg"
-"Mural","210 S Public Rd.","Cannon Mine Landscape","Ky",2012,39.996334,-105.090206,"cannon-mine.png"
-"Mural","300 W Chester St.","Four trees","Jessie Johnson and Meg Bennett",2012,39.994802,-105.093252,"four-trees.jpg"
-"Mural","501 E. Cleveland St.","Sunrise in the Mountains","Tif Choate",2012,39.997709,-105.085250,"sunrise-in-mountains.gif"
-"Mural","211 W Simpson St.","Butterfly bush",,2012,39.998622,-105.092980,"butterfly-bush.jpg"
-"Mural","301 E Geneseo St.","Peace","Mary Pat Munding and Friends",2011,39.999681,-105.087880,"peace.jpg"
-"Mural","201 E Cannon St.","Honeycomb","Marissa Saints and Anne Klein",2011,39.996732,-105.089077,"honeycomb.jpg"
-"Mural","201 W. Chester St.","Rusty Sunflowers","Mary Pat Munding",2011,39.995746,-105.091870,"rusty-sunflowers.jpg"
-"Mural","101 W. Cannon St.","Blackbirds","Sarah R. Spencer",2011,39.996718,-105.090561,"blackbirds.jpg"
-"Mural","201 E Cleveland St.","Cap butterfly",,2011,39.997713,-105.089176,"cap-butterfly.jpg"
-"Mural","707 E Cleveland St.","One sunflower","Besty's daughter (from LOTA)",2011,39.997727,-105.081940,"sunflower.png"
-"Mural","111 W Chester St.","Tulip","Mary Pat Munding",2011,39.995749,-105.091877,"tulip.png"
-"Mural","109 W Cannon St.","Farm with Chicken",,2011,39.996715,-105.091330,"farm-with-chicken.jpg"
-"Mural","201 E. Chester St.","Fairies","Shirley Grace",2011,39.995747,-105.089162,"fairies.jpg"
-"Mural","205 W Emma St.","Art Deco Garden Abstract","Marissa Saints and Friends",2010,39.994740, -105.092330,"deco-floral.jpg"
+Collection,Media,Address,Title,Artist,Year,Latitude,Longitude,Image
+Alley Art Amazin',Mural,404 E Cannon St.,Elements,Marissa Saints,2014,39.995817,-105.086295,elements.jpg
+Alley Art Amazin',Mural,472 S Longmont Ave,Bee Garden,Marissa Saints with art students and neighbors,2014,39.99476,-105.092955,bee-garden.jpg
+Alley Art Amazin',Mural,502 S Longmont Ave,Mickey In Glitter,Sarah R. Spencer,2014,39.99422,-105.092544,
+Alley Art Amazin',Mural,106 W Cannon St.,Farm Landscape,unknown,2014,39.9958,-105.091114,
+Alley Art Amazin',Mural,"Soul Tree Yoga, Simpson St.",Empowered By Love,"Tif Choate, Marissa Saints, Cory Ducombs, Meg & Jake Stockdale, Alex Bullen, Sarah R. Spencer",2014,39.9980839,-105.0858639,empowered.jpg
+Alley Art Amazin',Mural,131 E. Chester St.,Paint Comes to Life,Sarah R. Spencer,2014,39.995544,-105.090092,
+Alley Art Amazin',Mural,211 W. Chester St.,This Must Be the Place,Jenn Weede,2014,39.995745,-105.092938,
+Alley Art Amazin',Mural,407 W. Cleveland St.,The Patient Cat,Sarah R. Spencer,2014,39.997692,-105.095299,
+Alley Art Amazin',Mural,506 E. Cleveland St.,Seasons,MaryPat Munding,2014,39.996778,-105.084687,
+Alley Art Amazin',Mural,106 E Chester St.,Graphic Fence with Orchid,Sarah R. Spencer,2013,39.994867,-105.089651,graphic-fence-with-orchid.jpg
+Alley Art Amazin',Mural,103 S Public Rd.,Miller's View,Tif Choate,2013,39.997944,-105.091086,millers-view.jpg
+Alley Art Amazin',Mural,109 E. Cleveland Rd.,The Goats,Ky,2013,39.997714,-105.089537,the-goats.jpg
+Alley Art Amazin',Mural,108 E. Simpson St.,The Miner,Tif Choate,2013,39.997789,-105.089531,the-miner.jpg
+Alley Art Amazin',Mural,401 S. Public Rd.,wimsy pARTiculars,,2013,39.994804,-105.090633,wimsy.jpg
+Alley Art Amazin',Mural,108 E. Chester Rd.,An Octopus at Monet's Water Lilies,Sarah R. Spencer,2013,39.994803,-105.089494,octo-lilies.jpg
+Alley Art Amazin',Mural,203 W. Cleveland St.,Iris's with a Secret,Sarah R. Spencer,2013,39.997716,-105.092241,iris-with-secret.jpg
+Alley Art Amazin',Mural,613 E. Emma St.,Big Aspens,,2013,39.99473,-105.082944,moon-in-the-aspens.jpg
+Alley Art Amazin',Mural,103 N. Public Rd.,Hip Hop the Frog at Leenie's,Sarah R. Spencer,2013,39.998518,-105.090664,riverboat.jpg
+Alley Art Amazin',Mural,308 E. Emma St.,Deco Trailer,Sarah R. Spencer,2013,39.994306,-105.087835,deco-trailer.jpg
+Alley Art Amazin',Mural,210 W. Chester St.,John's Tree,"Tif Choate, Sarah R. Spencer, Ky Wozab",2013,39.994812,-105.092855,johns-tree.jpg
+Alley Art Amazin',Mural,206 S. Public Rd.,Navigating Lafayette for Superior Copy,Sarah R. Spencer,2012,39.996724,-105.090213,superior-copy.jpg
+Alley Art Amazin',Mural,510 E Cleveland,Sunflowers & Sun,Sarah R. Spencer + homeowner,2012,39.996794,-105.084364,sunflowers-and-sun.jpg
+Alley Art Amazin',Mural,403 W Cleveland St.,Rainbow Family,Tif Choate,2012,39.99769,-105.094769,
+Alley Art Amazin',Mural,502 1/2 E Simpson St.,An Urban Garden,Tif Choate,2012,39.997777,-105.085097,urban-garden.jpg
+Alley Art Amazin',Mural,307 W Cleveland St.,Lotus,Sarah R. Spencer,2012,39.99769,-105.093889,lotus.jpg
+Alley Art Amazin',Mural,107 W Cleveland St.,Wizard of Oz,Sarah R. Spencer,2012,39.997709,-105.091194,oz.jpg
+Alley Art Amazin',Mural,107 S Public Rd.,Butterflies,Sarah R. Spencer + community,2012,39.997665,-105.091072,butterflies.jpg
+Alley Art Amazin',Mural,303 W Simpson St.,Large Sunflowers,Sarah R. Spencer,2012,39.998681,-105.093541,large-sunflowers.jpg
+Alley Art Amazin',Mural,311 W Cannon St.,Sofia,Jenn Weede,2012,39.996703,-105.094306,sofia.jpg
+Alley Art Amazin',Mural,101 E Cleveland St.,Mountain Vistas,The resident did this one with some help from Marissa and Sarah,2012,39.996796,-105.086229,mountain-vistas.jpg
+Alley Art Amazin',Mural,301 W. Simpson St.,Eagle,Ky,2012,39.998696,-105.093295,eagle.jpg
+Alley Art Amazin',Mural,307 E. Cleveland St.,Georgia Okeefe's Flowers,Sarah R. Spencer,2012,39.997714,-105.087331,georgia-okeefs-flowers.jpg
+Alley Art Amazin',Mural,210 S Public Rd.,Cannon Mine Landscape,Ky,2012,39.996334,-105.090206,cannon-mine.png
+Alley Art Amazin',Mural,300 W Chester St.,Four trees,Jessie Johnson and Meg Bennett,2012,39.994802,-105.093252,four-trees.jpg
+Alley Art Amazin',Mural,501 E. Cleveland St.,Sunrise in the Mountains,Tif Choate,2012,39.997709,-105.08525,sunrise-in-mountains.gif
+Alley Art Amazin',Mural,211 W Simpson St.,Butterfly bush,,2012,39.998622,-105.09298,butterfly-bush.jpg
+Alley Art Amazin',Mural,301 E Geneseo St.,Peace,Mary Pat Munding and Friends,2011,39.999681,-105.08788,peace.jpg
+Alley Art Amazin',Mural,201 E Cannon St.,Honeycomb,Marissa Saints and Anne Klein,2011,39.996732,-105.089077,honeycomb.jpg
+Alley Art Amazin',Mural,201 W. Chester St.,Rusty Sunflowers,Mary Pat Munding,2011,39.995746,-105.09187,rusty-sunflowers.jpg
+Alley Art Amazin',Mural,101 W. Cannon St.,Blackbirds,Sarah R. Spencer,2011,39.996718,-105.090561,blackbirds.jpg
+Alley Art Amazin',Mural,201 E Cleveland St.,Cap butterfly,,2011,39.997713,-105.089176,cap-butterfly.jpg
+Alley Art Amazin',Mural,707 E Cleveland St.,One sunflower,Besty's daughter (from LOTA),2011,39.997727,-105.08194,sunflower.png
+Alley Art Amazin',Mural,111 W Chester St.,Tulip,Mary Pat Munding,2011,39.995749,-105.091877,tulip.png
+Alley Art Amazin',Mural,109 W Cannon St.,Farm with Chicken,,2011,39.996715,-105.09133,farm-with-chicken.jpg
+Alley Art Amazin',Mural,201 E. Chester St.,Fairies,Shirley Grace,2011,39.995747,-105.089162,fairies.jpg
+Alley Art Amazin',Mural,205 W Emma St.,Art Deco Garden Abstract,Marissa Saints and Friends,2010,39.99474,-105.09233,deco-floral.jpg
+Art on the Street rotating collection,Sculpture,"211 N Public Rd., Mojos Plaza",Green Ball,"Tom Newport",2014,40.000093,-105.090662,NID_881.jpg
+Art on the Street rotating collection,Sculpture,Santiagos,Curious George,"Judd Nelson",2014,39.998349,-105.090363,NID_882.jpg
+Art on the Street rotating collection,Sculpture,"107 S Public Rd., Metro Brokers",Winged Hunter,"Joellen Domenico",2014,39.997855,-105.090594,NID_883.jpg
+Art on the Street rotating collection,Sculpture,Cleveland & S. Public Roads,Tradition,"Robert Henderson",2014,39.997141,-105.090512,NID_884.jpg
+Art on the Street rotating collection,Sculpture,"101 W. Cannon, back lawn",More to Eatus,Richard Mertineit,2014,39.996593,-105.090573,NID_885.jpg
+Art on the Street rotating collection,Sculpture,Kimbark & S. Public Road,Broken Promises,"Felix Valez",2014,39.992397,-105.0906,NID_886.jpg
+Art on the Street rotating collection,Sculpture,Festival Plaza West; 311 S. Public Rd.,New Dancing Moon IV,"Reven Swanson",2014,39.995336,-105.090938,NID_889.jpg
+Art on the Street rotating collection,Sculpture,"210 S. Public Road, Cannon Mine",Girly Curl,"Harold Linke",2014,39.99636,-105.090339,NID_890.jpg
+Art on the Street rotating collection,Sculpture,Festival Plaza; 311 S. Public Rd.,Nap Time,"Ed Gauss",2014,39.995478,-105.09058,NID_891.jpg
+Art on the Street rotating collection,Sculpture,Festival Plaza Lawn; 311 S. Public Road,the human factor,"Greg Wasil",2014,39.995507,-105.090637,NID_892.jpg
+Art on the Street rotating collection,Sculpture,"Chester and Public Rd, SE Corner",Welcome Wagon,"Greg Todd",2014,39.995174,-105.090385,NID_893.jpg
+Art on the Street rotating collection,Sculpture,NW Emma and S. Public Rd,The Reclining Guitar,Anne Shutan,2014,39.99436,-105.090608,NID_894.jpg
+Art on the Street rotating collection,Sculpture,SW Emma and S. Public Road - by El Mercado,Flower of Life,Kimmerjae Johnson,2014,39.994146,-105.090628,NID_895.jpg
+Art on the Street rotating collection,Sculpture,603 S. Public Road,Opening of my Soul,"David Norrie",2014,39.993432,-105.090522,NID_896.jpg
+Art on the Street rotating collection,Sculpture,600 S. Public Rd. - Flag Pole E,Mr. Toolman,"Justin Deister",2014,39.993354,-105.090375,NID_897.jpg
+Art on the Street rotating collection,Sculpture,611 S. Public Rd; Elizabeths Embellishments,Love Birds,"Judd Nelson",2014,39.992794,-105.090586,NID_898.jpg
+Art on the Street rotating collection,Sculpture,Festival Plaza West (311 W. Chester),Soaring Bird II,"John King",2014,39.99537,-105.090374,NID_899.jpg
+Art on the Street rotating collection,Sculpture,"Festival Plaza Lawn, (311 S. Public Rd.)",Waiting for the Bus,J. Lucas Loeffler,2014,39.995527,-105.090669,NID_900.jpg
+Art on the Street rotating collection,Sculpture,Festival Plaza (311 S. Public Rd),Tree Wrap V,"Gerry Stecca",2014,39.995376,-105.090668,NID_901.jpg
+City of Lafayette Permanent Collection,Mural,775 West Baseline Road,Mary Miller Mural,Barbara Jo Revelle & John Caron,,40.000589,-105.099549,MaryMillerMural.jpg
+City of Lafayette Permanent Collection,Sculpture,775 West Baseline Road,Within Your Reach,Susan Booker & Kevin Gibbs,,40.000444,-105.100287,WithinYourReach.jpg
+City of Lafayette Permanent Collection,Sculpture,745 Hwy 287,Toros Curiosos,Christopher Weed,,40.007389,-105.103695,TorosCuriosos.jpg
+City of Lafayette Permanent Collection,Sculpture,South Public Road and Public Drive,Towns Woman,Tim Upham,,39.978929,-105.090795,Townswoman.jpg
+City of Lafayette Permanent Collection,Sculpture,309 South Public Road,Sky Dancer,Lucas Loeffler,,39.995379,-105.090562,SkyDancer.jpg
+City of Lafayette Permanent Collection,Sculpture,111 West Baseline Road,Banned,Jim Small,,40.001264,-105.090482,Banned.jpg
+City of Lafayette Permanent Collection,Sculpture,1290 South Public Road,Window of Peace,"Joellen Domenico",,39.987257,-105.090029,WindowofPeace.jpg
+City of Lafayette Permanent Collection,Sculpture,775 Baseline Road,Mother Goose,Diane D. Mason,,40.00079,-105.099798,MotherGoose.jpg
+City of Lafayette Permanent Collection,Sculpture,401 Public Road,Imagination,Lucas Loeffler,,39.995169,-105.090594,Imagination.jpg
+City of Lafayette Permanent Collection,Sculpture,Waneka Lake Boathouse,April Charm,Deedee Morrison,,39.993072,-105.113034,AprilCharm.jpg
+City of Lafayette Permanent Collection,Sculpture,1080 South Public Road,Traveler,Anthony Guntren,,39.989233,-105.090313,Traveler.jpg
+City of Lafayette Permanent Collection,Sculpture,SW corner of 95th and Arapahoe,Whimsy,Mike Davis,,40.014381,-105.132162,Whimsy.jpg
