@@ -30,6 +30,9 @@ You can also reference the hosted versions of the data in your project (we will 
 *  JSON Format: https://s3.amazonaws.com/lafayette-co-arts/lafayette-co-public-art.json
 *  GeoJSON format: https://s3.amazonaws.com/lafayette-co-arts/lafayette-co-public-art.geojson
 
+Hosted versions of the Images are also available:
+
+https://s3.amazonaws.com/lafayette-co-arts/images/elements.jpg
 
 How to Contribute to the list of public art in Lafayette, CO
 ----
