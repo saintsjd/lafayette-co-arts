@@ -5,7 +5,7 @@ The repository contains list of all the public art in Lafayette, CO USA. Include
 
 The data is available in CSV, JSON and GeoJSON formats. All three files contain exactly the same data.
 
-For each piece of artwork listed the following attributes are available:
+For each piece of artwork listed has the following attributes:
 
 ```
 Collection: Is the artowrk Alley Art, Art on the Street, or Permanent Collection
