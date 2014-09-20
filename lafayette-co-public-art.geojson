@@ -884,7 +884,7 @@
             },
             "properties": {
                 "address": "211 N Public Rd., Mojos Plaza",
-                "artist": "Tom Newport\n",
+                "artist": "Tom Newport\r\n",
                 "collection": "Art on the Street rotating collection",
                 "image": "NID_881.jpg",
                 "media": "Sculpture",
@@ -903,7 +903,7 @@
             },
             "properties": {
                 "address": "Santiagos",
-                "artist": "Judd Nelson\n",
+                "artist": "Judd Nelson\r\n",
                 "collection": "Art on the Street rotating collection",
                 "image": "NID_882.jpg",
                 "media": "Sculpture",
@@ -922,7 +922,7 @@
             },
             "properties": {
                 "address": "107 S Public Rd., Metro Brokers",
-                "artist": "Joellen Domenico\n",
+                "artist": "Joellen Domenico\r\n",
                 "collection": "Art on the Street rotating collection",
                 "image": "NID_883.jpg",
                 "media": "Sculpture",
@@ -941,7 +941,7 @@
             },
             "properties": {
                 "address": "Cleveland & S. Public Roads",
-                "artist": "Robert Henderson\n",
+                "artist": "Robert Henderson\r\n",
                 "collection": "Art on the Street rotating collection",
                 "image": "NID_884.jpg",
                 "media": "Sculpture",
@@ -979,7 +979,7 @@
             },
             "properties": {
                 "address": "Kimbark & S. Public Road",
-                "artist": "Felix Valez\n",
+                "artist": "Felix Valez\r\n",
                 "collection": "Art on the Street rotating collection",
                 "image": "NID_886.jpg",
                 "media": "Sculpture",
@@ -998,7 +998,7 @@
             },
             "properties": {
                 "address": "Festival Plaza West; 311 S. Public Rd.",
-                "artist": "Reven Swanson\n",
+                "artist": "Reven Swanson\r\n",
                 "collection": "Art on the Street rotating collection",
                 "image": "NID_889.jpg",
                 "media": "Sculpture",
@@ -1017,7 +1017,7 @@
             },
             "properties": {
                 "address": "210 S. Public Road, Cannon Mine",
-                "artist": "Harold Linke\n",
+                "artist": "Harold Linke\r\n",
                 "collection": "Art on the Street rotating collection",
                 "image": "NID_890.jpg",
                 "media": "Sculpture",
@@ -1036,7 +1036,7 @@
             },
             "properties": {
                 "address": "Festival Plaza; 311 S. Public Rd.",
-                "artist": "Ed Gauss\n",
+                "artist": "Ed Gauss\r\n",
                 "collection": "Art on the Street rotating collection",
                 "image": "NID_891.jpg",
                 "media": "Sculpture",
@@ -1055,7 +1055,7 @@
             },
             "properties": {
                 "address": "Festival Plaza Lawn; 311 S. Public Road",
-                "artist": "Greg Wasil\n",
+                "artist": "Greg Wasil\r\n",
                 "collection": "Art on the Street rotating collection",
                 "image": "NID_892.jpg",
                 "media": "Sculpture",
@@ -1074,7 +1074,7 @@
             },
             "properties": {
                 "address": "Chester and Public Rd, SE Corner",
-                "artist": "Greg Todd\n",
+                "artist": "Greg Todd\r\n",
                 "collection": "Art on the Street rotating collection",
                 "image": "NID_893.jpg",
                 "media": "Sculpture",
@@ -1131,7 +1131,7 @@
             },
             "properties": {
                 "address": "603 S. Public Road",
-                "artist": "David Norrie\n",
+                "artist": "David Norrie\r\n",
                 "collection": "Art on the Street rotating collection",
                 "image": "NID_896.jpg",
                 "media": "Sculpture",
@@ -1150,7 +1150,7 @@
             },
             "properties": {
                 "address": "600 S. Public Rd. - Flag Pole E",
-                "artist": "Justin Deister\n",
+                "artist": "Justin Deister\r\n",
                 "collection": "Art on the Street rotating collection",
                 "image": "NID_897.jpg",
                 "media": "Sculpture",
@@ -1169,7 +1169,7 @@
             },
             "properties": {
                 "address": "611 S. Public Rd; Elizabeths Embellishments",
-                "artist": "Judd Nelson\n",
+                "artist": "Judd Nelson\r\n",
                 "collection": "Art on the Street rotating collection",
                 "image": "NID_898.jpg",
                 "media": "Sculpture",
@@ -1188,7 +1188,7 @@
             },
             "properties": {
                 "address": "Festival Plaza West (311 W. Chester)",
-                "artist": "John King\n",
+                "artist": "John King\r\n",
                 "collection": "Art on the Street rotating collection",
                 "image": "NID_899.jpg",
                 "media": "Sculpture",
@@ -1226,7 +1226,7 @@
             },
             "properties": {
                 "address": "Festival Plaza (311 S. Public Rd)",
-                "artist": "Gerry Stecca\n",
+                "artist": "Gerry Stecca\r\n",
                 "collection": "Art on the Street rotating collection",
                 "image": "NID_901.jpg",
                 "media": "Sculpture",
@@ -1359,7 +1359,7 @@
             },
             "properties": {
                 "address": "1290 South Public Road",
-                "artist": "Joellen Domenico\n",
+                "artist": "Joellen Domenico\r\n",
                 "collection": "City of Lafayette Permanent Collection",
                 "image": "WindowofPeace.jpg",
                 "media": "Sculpture",
