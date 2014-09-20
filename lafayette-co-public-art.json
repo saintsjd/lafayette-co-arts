@@ -154,7 +154,7 @@
         "year": 2013
     },
     {
-        "address": "108 E. Chester Rd.",
+        "address": "108 E. Chester Rtupd.",
         "artist": "Sarah R. Spencer",
         "collection": "Alley Art Amazin'",
         "image": "octo-lilies.jpg",
@@ -466,8 +466,8 @@
         "artist": "Mary Pat Munding",
         "collection": "Alley Art Amazin'",
         "image": "tulip.png",
-        "latitude": 39.995749,
-        "longitude": -105.091877,
+        "latitude": 39.995726,
+        "longitude": -105.09157,
         "media": "Mural",
         "title": "Tulip",
         "year": 2011

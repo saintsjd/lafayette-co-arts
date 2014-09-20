@@ -275,7 +275,7 @@
                 "type": "Point"
             },
             "properties": {
-                "address": "108 E. Chester Rd.",
+                "address": "108 E. Chester Rtupd.",
                 "artist": "Sarah R. Spencer",
                 "collection": "Alley Art Amazin'",
                 "image": "octo-lilies.jpg",
@@ -801,8 +801,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -105.091877,
-                    39.995749
+                    -105.09157,
+                    39.995726
                 ],
                 "type": "Point"
             },
