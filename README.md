@@ -16,7 +16,7 @@ Artist: Artist(s) who created the work
 Year: year the work was created
 Latitude: Fairly accurate latitude of the work (if you walk to this point you should be able to see it)
 Longitude: Fairly accurate longitude of the work (if you walk to this point you should be able to see it) 
-Image: image of the work. Images are store in the images folder in this repository
+Image: image of the work (Images are stored in the images folder in this repository)
 ```
 
 Using the data
