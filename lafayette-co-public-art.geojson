@@ -1462,6 +1462,25 @@
                 "year": null
             },
             "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.108965,
+                    39.993502
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "Waneka Lake W Emma St Parking Lot",
+                "artist": "Bongo Love",
+                "collection": "City of Lafayette Permanent Collection",
+                "image": "bongo-love.jpg",
+                "media": "Sculpture",
+                "title": "Waneka Lake Tree sculpture",
+                "year": 2014
+            },
+            "type": "Feature"
         }
     ],
     "type": "FeatureCollection"
